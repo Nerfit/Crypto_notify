@@ -1,0 +1,11 @@
+# Email address from which notifications will be sent (only Gmail + you have to enable less secure applications)
+MAIL
+
+# Encrypted mail password
+PASSWORD
+
+# Email address to which notifications will be sent
+MAIL
+# Refresh rate in seconds
+2
+
